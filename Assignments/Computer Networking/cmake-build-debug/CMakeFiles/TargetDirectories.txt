@@ -1,0 +1,3 @@
+C:/Users/kagan/Masaüstü/DERS/3.TERM/BBM203 - C++ Lab/Assignment 3/cmake-build-debug/CMakeFiles/hubbmnet.dir
+C:/Users/kagan/Masaüstü/DERS/3.TERM/BBM203 - C++ Lab/Assignment 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kagan/Masaüstü/DERS/3.TERM/BBM203 - C++ Lab/Assignment 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
